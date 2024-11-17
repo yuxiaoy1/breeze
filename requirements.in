@@ -1,0 +1,9 @@
+bootstrap-flask
+email-validator
+faker
+flask
+flask-ckeditor
+flask-login
+flask-mailman
+flask-sqlalchemy
+flask-wtf
